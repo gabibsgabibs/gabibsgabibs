@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Gabriella, estudante da Trybe!
+## Oiii! Eu sou a Gabriella, estudante da Trybe! ✨
 <div align="center">
   <a href="https://github.com/gabibsdev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabibsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
