@@ -3,7 +3,8 @@
 <img align="right" alt="Cute Hello Penguin" width="150px" src="https://media.tenor.com/WTmM6wEfJAAAAAAC/hi-hihi.gif"/>
 
 <h4>Sobre Mim: </h4>
-Me chamo Gabriella, tenho 26 anos e sou de Belo Horizonte - MG. Sou formada em Arquitetura e Urbanismo, porém há cerca de 1 ano optei pela transição de     carreira e atualmente sou estudante de Desenvolvimento Web Full Stack pela <a href="https://www.betrybe.com/">Trybe</a>! 
+Me chamo Gabriella, tenho 26 anos e sou de Belo Horizonte - MG. 
+Atualmente, encontro-me em um momento de <b>transição de carreira</b>, me dedicando de corpo e alma aos estudos, com o objetivo de retomar minha carreira na área da tecnologia. É incrível ver como os códigos ganham vida e transformam ideias em soluções práticas e inovadoras. Estou animada com a minha <b>jornada</b> de volta e mal posso esperar para ver onde essa paixão irá me levar!
 
 ##
   
