@@ -8,15 +8,15 @@ Tenho 27 anos, de Belo Horizonte - MG e sou uma desenvolvedora apaixonada por te
 - 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades
 - 📫 Entre em contato comigo em [gabibsdev@gmail.com]
 
-# Principais Tecnologias
+### Principais Tecnologias
 - 💻 Desenvolvimento Web: [ReactJS, Typescript, NodeJS, MySQL, MongoDB, Docker, Testes]
 - 🛠️ Atualmente estudando: [Angular, AWS Services]
 
-# Contribuições
-Estou aberto a colaborações e contribuições em projetos interessantes. Se você tiver alguma ideia ou proposta, sinta-se à vontade para entrar em contato.
+### Contribuições
+Estou aberta a colaborações e contribuições em projetos interessantes. Se você tiver alguma ideia ou proposta, sinta-se à vontade para entrar em contato.
 
-# Redes Sociais
+### Redes Sociais
   <a href="https://www.linkedin.com/in/gabibsgabibs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/gabibsgabibs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
-Obrigado por visitar o meu perfil no GitHub! 😃
+Obrigada por visitar o meu perfil no GitHub! 😃
