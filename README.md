@@ -1,6 +1,6 @@
-# Bem-vindo ao Meu GitHub 👋
+# Olá, sou a [Gabi](https://www.linkedin.com/in/gabibsgabibs/) 👋
 
-Olá, sou a [Gabi](https://www.linkedin.com/in/gabibsgabibs/), tenho 27 anos, de Belo Horizonte - MG e sou uma desenvolvedora apaixonada por tecnologia e programação. Recentemente passei por um momento de **transição de carreira**, no qual me dediquei de corpo e alma aos estudos, e atualmente estou de volta à área da tecnologia como **Desenvolvedora Fullstack Junior**. Este é o meu espaço no GitHub, onde compartilho projetos, código-fonte e novas ideias. Sinta-se à vontade para explorar os meus repositórios e colaborar em qualquer projeto que chame a sua atenção.
+Tenho 27 anos, de Belo Horizonte - MG e sou uma desenvolvedora apaixonada por tecnologia e programação. Recentemente passei por um momento de **transição de carreira**, no qual me dediquei de corpo e alma aos estudos, e atualmente estou de volta à área da tecnologia como **Desenvolvedora Fullstack Junior**. Este é o meu espaço no GitHub, onde compartilho projetos, código-fonte e novas ideias. Sinta-se à vontade para explorar os meus repositórios e colaborar em qualquer projeto que chame a sua atenção.
 
 ## Sobre Mim
 - 🎓 Formada em [Desenvolvimento Web FullStack] pela [Trybe](https://www.betrybe.com/)
