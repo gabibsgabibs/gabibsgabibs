@@ -3,8 +3,8 @@
 Tenho 27 anos, de Belo Horizonte - MG e sou uma desenvolvedora apaixonada por tecnologia e programação. Recentemente passei por um momento de **transição de carreira**, no qual me dediquei de corpo e alma aos estudos, e atualmente estou de volta à área da tecnologia como **Desenvolvedora Fullstack Junior**. Este é o meu espaço no GitHub, onde compartilho projetos, código-fonte e novas ideias. Sinta-se à vontade para explorar os meus repositórios e colaborar em qualquer projeto que chame a sua atenção.
 
 ## Sobre Mim
-- 🎓 Formada em [Desenvolvimento Web FullStack] pela [Trybe](https://www.betrybe.com/)
-- 💼 Atualmente trabalhando como [Desenvolvedora Web FullStack] no [Cori-MG]
+- 🎓 Formada em **Desenvolvimento Web FullStack** pela [Trybe](https://www.betrybe.com/)
+- 💼 Atualmente trabalhando como **Software Engineer** na [Levty](https://www.levty.com/br/)
 - 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades
 - 📫 Entre em contato comigo em [gabibsdev@gmail.com]
 
