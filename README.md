@@ -1,22 +1,23 @@
-# Olá, sou a [Gabi](https://www.linkedin.com/in/gabibsgabibs/) 👋
+# Hi, I'm [Gabi](https://www.linkedin.com/in/gabibsgabibs/) 👋
 
-Tenho 27 anos, de Belo Horizonte - MG e sou uma desenvolvedora apaixonada por tecnologia e programação. Recentemente passei por um momento de **transição de carreira**, no qual me dediquei de corpo e alma aos estudos, e atualmente estou de volta à área da tecnologia como **Desenvolvedora Fullstack Junior**. Este é o meu espaço no GitHub, onde compartilho projetos, código-fonte e novas ideias. Sinta-se à vontade para explorar os meus repositórios e colaborar em qualquer projeto que chame a sua atenção.
+I'm 27 years old, based in Belo Horizonte, Brazil 🇧🇷, and I'm a developer passionate about technology and programming. I recently went through a **career transition** during which I fully dedicated myself to studying, and now I'm back in the tech world working as a **Software Engineer**.  
+This is my GitHub space where I share projects, source code, and new ideas. Feel free to explore my repositories and collaborate on any project that interests you.
 
-## Sobre Mim
-- 🎓 Formada em **Desenvolvimento Web FullStack** pela [Trybe](https://www.betrybe.com/)
-- 💼 Atualmente trabalhando como **Software Engineer** na [Levty](https://www.levty.com/br/)
-- 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades
-- 📫 Entre em contato comigo em [gabibsdev@gmail.com]
+## About Me
+- 🎓 Graduated in **FullStack Web Development** from [Trybe](https://www.betrybe.com/)
+- 💼 Currently working as a **Software Engineer** at [Levty](https://www.levty.com/br/)
+- 🌱 Always learning and improving my skills
+- 📫 Reach out to me at [gabibsdev@gmail.com](mailto:gabibsdev@gmail.com)
 
-### Principais Tecnologias
-- 💻 Desenvolvimento Web: [ReactJS, Typescript, NodeJS, MySQL, MongoDB, Docker, Testes]
-- 🛠️ Atualmente estudando: [Angular, AWS Services]
+### Main Technologies
+- 💻 Web Development: [ReactJS, Typescript, NodeJS, MySQL, MongoDB, Docker, Testing]
+- 🛠️ Currently studying: [Angular, AWS Services]
 
-### Contribuições
-Estou aberta a colaborações e contribuições em projetos interessantes. Se você tiver alguma ideia ou proposta, sinta-se à vontade para entrar em contato.
+### Contributions
+I'm open to collaborations on interesting projects. If you have an idea or proposal, feel free to get in touch.
 
-### Redes Sociais
-  <a href="https://www.linkedin.com/in/gabibsgabibs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/gabibsgabibs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+### Social Media
+<a href="https://www.linkedin.com/in/gabibsgabibs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/gabibsgabibs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
-Obrigada por visitar o meu perfil no GitHub! 😃
+Thanks for visiting my GitHub profile! 😃
